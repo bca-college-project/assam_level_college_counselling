@@ -251,7 +251,7 @@ This project currently has **no explicit license specified**. Please contact the
 
 **⭐ Star this repo if you find it helpful!**
 
-Made with ❤️ by [Author Name] <!-- TODO: Add author name or project team name -->
+Made with ❤️ by Satabda Gogoi <!-- TODO: Add author name or project team name -->
 
 </div>
 ```
