@@ -241,7 +241,7 @@ This project currently has **no explicit license specified**. Please contact the
 
 ## 📞 Support & Contact
 
--   📧 Email: [contact@example.com] <!-- TODO: Add primary contact email for the project -->
+-   📧 Email: dev.satabda@gmail.com <!-- TODO: Add primary contact email for the project -->
 -   🐛 Issues: [GitHub Issues](https://github.com/bca-college-project/assam_level_college_counselling/issues)
 -   💬 Discussions: (Not enabled by default, can be added via GitHub Discussions)
 
