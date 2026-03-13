@@ -1,0 +1,29 @@
+# ─── Private / Secrets ─────────────────────────────────
+.env
+
+# ─── Uploads & Logs ─────────────────────────────────────
+uploads/
+otp_mail_log.txt
+
+# ─── OS & Editor junk ──────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# ─── Vendor (if using Composer) ─────────────────────────
+vendor/
+
+# ─── Temp / debug scripts ───────────────────────────────
+fix_schema*.php
+check_schema.php
+migrate*.php
+fix_auth*.php
+apply_auth*.php
+test_*.php
+debug_*.php
+
+# ─── Build artifacts ────────────────────────────────────
+*.log
